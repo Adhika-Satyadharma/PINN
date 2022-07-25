@@ -1,1 +1,2 @@
-This is my PINN code that I use to solve a simplified BFS (Backwards Facing Step) case
+This is my PINN code that I use to solve a simplified BFS (Backwards Facing Step) case. 
+There are 2 version of this code, one uses the Standard Navier-Stokes as the PDE loss function and the other uses the stream function version of the Navier-Stokes equation.
